@@ -189,6 +189,7 @@ div {
 	left: 560px;
 	top: 191px;
 	color: #FFFFFF;
+            margin-left: 10px;
 }
         #apDiv20 {
 	position: absolute;
@@ -267,7 +268,7 @@ div {
 #contenidos{
 	width: 1000px;
 	height: auto;
-	margin: auto;
+	margin-left: 10px;
 	position: relative;
 	color: #000;
 }
@@ -364,14 +365,7 @@ footer{
 	font-size: 12px;
 	text-align: left;
 }
-p{
 
-	font-size: 15px;
-	font-weight: bolder;
-	line-height: 24px;
-	padding: 10px;
-	text-align: justify;
-}
 /*CLASES*/
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
