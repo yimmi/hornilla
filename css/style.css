@@ -7,8 +7,8 @@
 	height: 168px;
 	z-index: 1;
 	border-radius: 10px 10px 0px 0px;
-     margin: auto;
-    padding-top: 85px
+    margin: auto;
+    padding-top: 4px;
             }
 
 
@@ -32,7 +32,7 @@
 	top: 179px;
 	left: 771px;
     margin: auto;
-    padding-top: 85px
+    padding-top: 4px;
             }
 
 
@@ -44,7 +44,7 @@
 	left: 679px;
 	top: 185px;
     margin: auto;
-    padding-top: 85px;
+    padding-top: 4px;
             }
 
 
@@ -207,7 +207,7 @@ div {
 	top: 191px;
 	color: #FFFFFF;
     margin: auto;
-    padding-top: 85px
+padding-top: 4px;
             
 }
         #apDiv20 {
