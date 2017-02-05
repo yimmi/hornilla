@@ -42,9 +42,11 @@
 	height: 34px;
 	z-index: 1;
 	left: 679px;
-	top: 185px;
+    top: 17px;
     margin: auto;
     padding-top: 4px;
+        top: 17px;
+ 
             }
 
 
@@ -161,7 +163,7 @@ div {
 	width: 98px;
 	height: 68px;
 	z-index: 3;
-	left: 546px;
+	left: 46px;
 	top: 22px;
 	border-radius: 0px 0px 0px 0px;
 }
@@ -207,12 +209,13 @@ div {
 	height: 43px;
 	z-index: 8;
 	left: 560px;
-	top: 191px;
-	color: #FFFFFF;
-    margin: auto;
+	top: 17px;
+	color: white;
+    margin: 4px;
 padding-top: 4px;
-            
 }
+
+
         #apDiv20 {
 	position: absolute;
 	width: 39px;
@@ -221,7 +224,7 @@ padding-top: 4px;
 	left: 523px;
 	top: 184px;
     margin: auto;
-    padding-top: 85px
+    padding-top: 5px
 }
         .class body section article p {
 	font-weight: bold;
@@ -336,7 +339,7 @@ nav{
 	background: #003f5e;
 	border-radius: 0px 0px 10px 10px;
 	color: #006680;
-    
+  
 }
 ul{
 margin: auto;
